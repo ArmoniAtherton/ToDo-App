@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47dc80ed-d4e1-4dcb-a500-fa7dcdefa671" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/client-todo/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client-todo/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client-todo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client-todo/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client-todo/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client-todo/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client-todo/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/client-todo/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client-todo/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client-todo/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client-todo/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client-todo/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client-todo/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client-todo/src/logo.svg" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client-todo" />
+  </component>
+  <component name="ProjectId" id="1PeyBI05KIKfFI2gwDg8A2imXOL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="11.9.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47dc80ed-d4e1-4dcb-a500-fa7dcdefa671" name="Default Changelist" comment="" />
+      <created>1566248720031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566248720031</updated>
+      <workItem from="1566248721903" duration="703000" />
+      <workItem from="1566257429465" duration="31758000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/server.js</url>
+          <line>7</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/client-todo/src/index.js</url>
+          <line>1</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

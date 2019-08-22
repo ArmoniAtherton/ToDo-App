@@ -1,0 +1,3 @@
+To run MongoDb locally do: 
+	- (Only the first time) sudo mkdir -p /data/db
+	- sudo mongod
